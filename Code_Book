@@ -1,5 +1,3 @@
-
-
 #The TidyData Code Book
 
 ##In this dataset, there are two new variables "activity" (column1), "subject"(column2), and other old varaibles (column3-81) that used the same names from features.txt in the UCI HAR data set.
