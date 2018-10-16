@@ -1,5 +1,6 @@
 # Data Cleaning Procedure
-##The Run_Analysis.R file perform the analysis and generate a new tidy data.  
+The Run_Analysis.R file perform the analysis and generate a new tidy data.  
+
 * First Download and unzip data  
 * Read in the X,Y, and Subject datasets separately  
 * Combine train and test datasets and view what they look like  
